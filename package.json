@@ -1,0 +1,11 @@
+{
+  "name": "text-summarizer",
+  "version": "1.0.0",
+  "description": "A text summarizer application with React frontend and Python backend",
+  "scripts": {
+    "start": "cd frontend && npm start",
+    "install-all": "npm install && cd frontend && npm install && cd ../backend && pip install -r requirements.txt"
+  },
+  "author": "",
+  "license": "ISC"
+}
